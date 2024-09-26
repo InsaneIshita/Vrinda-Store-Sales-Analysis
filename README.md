@@ -4,7 +4,7 @@ Vrinda Store Annual Report 2022 📊
 The objective of this project is to analyze the sales data of Vrinda Store in order to provide actionable insights that can help improve their sales performance.
 
 📑Dataset:
-The dataset was sourced from Kaggle: Vrinda Store Dataset
+The dataset was sourced from Kaggle: https://www.kaggle.com/datasets/nisshaachoudhary/store-data-analysis-using-ms-excel/data
 
 🔍Steps Taken:
 
